@@ -1,0 +1,10 @@
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\bin\Debug\kalkusederhana.exe.config
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\bin\Debug\kalkusederhana.exe
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\bin\Debug\kalkusederhana.pdb
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\obj\Debug\kalkusederhana.csproj.AssemblyReference.cache
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\obj\Debug\kalkusederhana.Form1.resources
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\obj\Debug\kalkusederhana.Properties.Resources.resources
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\obj\Debug\kalkusederhana.csproj.GenerateResource.cache
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\obj\Debug\kalkusederhana.csproj.CoreCompileInputs.cache
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\obj\Debug\kalkusederhana.exe
+C:\Users\EXA\source\repos\kalkusederhana\kalkusederhana\obj\Debug\kalkusederhana.pdb
